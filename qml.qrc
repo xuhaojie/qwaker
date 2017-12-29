@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/computer.png</file>
+        <file>images/laptop.png</file>
+        <file>images/printer.png</file>
+        <file>images/server.png</file>
+        <file>images/remove.jpg</file>
+        <file>images/add.jpg</file>
+        <file>images/power.jpg</file>
+        <file>HostPage.qml</file>
+        <file>HomePage.qml</file>
+        <file>SetupPage.qml</file>
+        <file>images/setup.png</file>
+        <file>MessageBox.qml</file>
+        <file>xxtea.js</file>
+    </qresource>
+</RCC>
